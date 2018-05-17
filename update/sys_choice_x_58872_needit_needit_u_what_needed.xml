@@ -15,10 +15,48 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d731262edb465300d31af6dfbf961914</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:39:51</sys_updated_on>
+            <sys_updated_on>2018-05-17 09:53:30</sys_updated_on>
             <value> hr1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Human Resource 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 09:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e49aafadb0e5300d31af6dfbf96197d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 09:53:31</sys_updated_on>
+            <value>hr1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Your Department Choice 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 14:39:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b31262edb465300d31af6dfbf96191f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 09:59:01</sys_updated_on>
+            <value>your_choice1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -34,10 +72,48 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d731262edb465300d31af6dfbf961916</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:39:51</sys_updated_on>
+            <sys_updated_on>2018-05-17 09:53:30</sys_updated_on>
             <value> hr2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Human Resource 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 09:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da49aafadb0e5300d31af6dfbf96197f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 09:53:31</sys_updated_on>
+            <value>hr2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Your Department Choice 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 14:39:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5731262edb465300d31af6dfbf961921</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 09:59:01</sys_updated_on>
+            <value>your_choice2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -110,9 +186,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>db31262edb465300d31af6dfbf96191d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:39:51</sys_updated_on>
+            <sys_updated_on>2018-05-17 09:53:30</sys_updated_on>
             <value>Legal2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -120,38 +196,19 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Your Department Choice 1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:39:51</sys_created_on>
+            <sys_created_on>2018-05-17 09:53:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1b31262edb465300d31af6dfbf96191f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>5e49aafadb0e5300d31af6dfbf961981</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:39:51</sys_updated_on>
-            <value>your_choice1</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_what_needed</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Your Department Choice 2</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 14:39:51</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>5731262edb465300d31af6dfbf961921</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 14:39:51</sys_updated_on>
-            <value>your_choice2</value>
+            <sys_updated_on>2018-05-17 09:59:01</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
